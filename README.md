@@ -2,8 +2,7 @@
 A simple front-end web project built with **HTML, CSS, and JavaScript**, designed as my first large-scale project to practice and test my **basic frontend skills**.  
 Live Demo: [Mother-Son Dining](https://mother-son-dining.netlify.app/)
 
-![Screenshot of Mother-Son Dining](<img width="1919" height="851" alt="Screenshot 2025-10-03 113226" src="https://github.com/user-attachments/assets/4533a393-4714-4560-9c76-520863db24da" />
-)
+![Screenshot of Mother-Son Dining](https://github.com/Raeef-Chowdhury/Mother-and-Son-Dining/blob/master/Screenshot%202025-10-03%20113226.png?raw=true)
 
 ---
 
